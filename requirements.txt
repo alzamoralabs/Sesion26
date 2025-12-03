@@ -1,0 +1,6 @@
+langchain_ollama
+langchain
+langsmith
+tavily
+guardrails-ai
+ipykernel
